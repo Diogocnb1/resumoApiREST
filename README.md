@@ -30,3 +30,6 @@ A **API REST** (Representational State Transfer) é uma arquitetura de software 
 - **401 Unauthorized:** Cliente não possui autorização para acessar o recurso.
 - **404 Not Found:** Recurso solicitado não foi encontrado.
 - **500 Internal Server Error:** Erro interno do servidor.
+
+--- 
+Feito por : Diogo Chateaubriand Nascimento Bandeira - 01522133
